@@ -9,7 +9,7 @@
     "dev": "node source/app.js"
   },
   "keywords": [],
-  "author": "ZAIN MOHAMMED",
+  "author": "MUJEEB ULLAH KHAN",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
